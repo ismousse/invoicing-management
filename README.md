@@ -59,7 +59,7 @@ public void configure ( WebSecurity web) throws Exception {
 } 
 ```
 
-### 3.前端使用vue
+### 4.前端使用vue
 [官方文档](https://cn.vuejs.org/v2/guide/)
 
 ### 参考
